@@ -1,33 +1,35 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# 포트폴리오
 
+## 네이버지도로 보는 여행일지 어플
+개발 환경 - React Native, Node JS, Mongo DB
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+**깃헙주소**
+* 어플 : https://github.com/luvehayoung/react-native-tour-app
+* API 서버 : https://github.com/smeil123/TourAppServer
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 교내 청원 홈페이지
+개발 환경 - Node JS, Mongo DB, MySql, Firebase
 
-(* = not included)
+**깃헙주소**
+* https://github.com/smeil123/peitition_nodejs
 
-AJ
-aj@lkn.io | @ajlkn
+## 영화 예매 시스템(데이터베이스 설계)
+개발 환경 - C#, Oracle
 
+**깃헙주소**
+* 사용자 프로그램 : https://github.com/shkim52/db_cinema
+* 관리자 프로그램 : https://github.com/smeil123/cinema_manager
 
-Credits:
+## 네트워크 시뮬레이션
+개발 환경 - Linux, C++, NS-3
 
-	Demo Images:
-		Unsplash (unsplash.com)
+**깃헙주소**
+* https://github.com/smeil123/ns3_lwsn_tdma/tree/master
+* https://github.com/smeil123/ns3_lwsn_networkcoding
+* https://github.com/smeil123/ns3_lwsn_networkcoding
 
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
+## 주식관련 데이터 크롤링 및 형태소 분석
+개발 환경 - Python
 
-	Other:
-		jQuery (jquery.com)
-		Misc. Sass functions (@HugoGiraudel)
-		Skel (skel.io)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
+**깃헙주소**
+* https://github.com/smeil123/Finance_crawler
