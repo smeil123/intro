@@ -1,20 +1,13 @@
-
-
-#  포트폴리오
-
-#  관심있는 공부
+#  진행 중 Study
 
 ##  알고리즘 문제 풀기
 
 > 1일 1문제 풀기 도전
 
-
 사용언어 : C++, Python
-
 https://blog.naver.com/smeil123
 
   
-
 ##  To-Do List
 
 ###  네트워크
@@ -83,5 +76,5 @@ https://stackedit.io/app#providerId=githubWorkspace&owner=smeil123&repo=Network_
 
 * https://github.com/smeil123/Finance_crawler
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjIzOTQ2NTcsODA3NjcyNTA2XX0=
+eyJoaXN0b3J5IjpbLTIwMjE3NDE2NjQsODA3NjcyNTA2XX0=
 -->
