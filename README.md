@@ -2,10 +2,13 @@
 
 # 관심있는 공부
 ## 알고리즘 문제 풀기
+> 1일 1문제 풀기 도전
+> 
 사용언어 : C++, Python
 https://blog.naver.com/smeil123
 
 ## 네트워크
+
 
 ## 네이버지도로 보는 여행일지 어플
 개발 환경 - React Native, Node JS, Mongo DB
@@ -41,5 +44,5 @@ https://blog.naver.com/smeil123
 **깃헙주소**
 * https://github.com/smeil123/Finance_crawler
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTEwMDkxODFdfQ==
+eyJoaXN0b3J5IjpbMzg1NzkxMjQ1XX0=
 -->
