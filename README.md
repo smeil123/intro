@@ -7,14 +7,10 @@
 사용언어 : C++, Python
 https://blog.naver.com/smeil123
 
-  
-##  To-Do List
-
-###  네트워크
-
+##  네트워크
 https://stackedit.io/app#providerId=githubWorkspace&owner=smeil123&repo=Network_Study&branch=master
 
-###  Java(Spring)
+###  Java(Spring) 예정
 
 
 # 프로젝트
@@ -76,5 +72,5 @@ https://stackedit.io/app#providerId=githubWorkspace&owner=smeil123&repo=Network_
 
 * https://github.com/smeil123/Finance_crawler
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjE3NDE2NjQsODA3NjcyNTA2XX0=
+eyJoaXN0b3J5IjpbLTE0MDE0MTM1NzUsODA3NjcyNTA2XX0=
 -->
