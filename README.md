@@ -30,10 +30,6 @@ https://stackedit.io/app#providerId=githubWorkspace&owner=smeil123&repo=Network_
 
 개발 환경 - React Native, Node JS, Mongo DB
 
-##  Features
-
-  
-
 **깃헙주소**
 
 * 어플 : https://github.com/luvehayoung/react-native-tour-app
@@ -87,5 +83,5 @@ https://stackedit.io/app#providerId=githubWorkspace&owner=smeil123&repo=Network_
 
 * https://github.com/smeil123/Finance_crawler
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3NjcyNTA2XX0=
+eyJoaXN0b3J5IjpbLTExMjIzOTQ2NTcsODA3NjcyNTA2XX0=
 -->
