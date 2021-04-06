@@ -10,8 +10,15 @@
 * 취미 : 방탈출, 온라인게임, 알고리즘풀기
 
 ## 학력
-* 서울시립대학교 컴퓨터 과학 
+* 서울시립대학교 졸업(2015~2020)
+	* [주전공] 컴퓨터과학부
+	* [복수전공] 빅데이터분석학
 
+## 회사경력
+* 한국산업은행 인턴  (2020 상반기)
+* 신한은행 (2021 ~ 현재)
+
+## 사용기술
 
 
 사용언어 : C++, Python
@@ -82,6 +89,6 @@ https://stackedit.io/app#providerId=githubWorkspace&owner=smeil123&repo=Network_
 
 * https://github.com/smeil123/Finance_crawler
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTIwNzgzLC0xNDAxNDEzNTc1LDgwNz
-Y3MjUwNl19
+eyJoaXN0b3J5IjpbLTE0Nzg3MjMyNTgsLTE0MDE0MTM1NzUsOD
+A3NjcyNTA2XX0=
 -->
