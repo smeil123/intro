@@ -74,7 +74,7 @@ Todo Study
 
 ###  네트워크 시뮬레이션
 
-* 환경 :  Linux, C++, NS-3
+* 구축환경 : Linux, C++, NS-3
  
 
 **깃헙주소**
@@ -89,12 +89,12 @@ Todo Study
 
 ##  주식관련 데이터 크롤링 및 형태소 분석
 
-개발 환경 - Python  
+* 사용언어 : Python  
 
 **깃헙주소**
 
 * https://github.com/smeil123/Finance_crawler
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAzNzQ5OTk4LC0xNDAxNDEzNTc1LDgwNz
-Y3MjUwNl19
+eyJoaXN0b3J5IjpbMTEzNDY1OTIwMiwtMTQwMTQxMzU3NSw4MD
+c2NzI1MDZdfQ==
 -->
