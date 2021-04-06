@@ -2,6 +2,8 @@
 
 ## 자기소개
 
+Backend개발자가 되고 싶어, 하나씩 차근차근 공부하고 있습니다.
+사소하지만 감동을 주고 편리한 기능을 제공해주는 SW개발을 하고 싶습니다.
 
 * Name : 장 은 지
 * E-Mail : smeil123@naver.com
@@ -17,6 +19,10 @@
 ## 회사경력
 * 한국산업은행 인턴  (2020 상반기)
 * 신한은행 (2021 ~ 현재)
+
+## 자격증
+* 정보처리기사(2020)
+* SQLD
 
 ## 사용기술
 
@@ -89,6 +95,6 @@ https://stackedit.io/app#providerId=githubWorkspace&owner=smeil123&repo=Network_
 
 * https://github.com/smeil123/Finance_crawler
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzg3MjMyNTgsLTE0MDE0MTM1NzUsOD
-A3NjcyNTA2XX0=
+eyJoaXN0b3J5IjpbMTEzMjI0MTU3OSwtMTQwMTQxMzU3NSw4MD
+c2NzI1MDZdfQ==
 -->
