@@ -7,7 +7,12 @@
 * E-Mail : smeil123@naver.com
 * GitHub : https://github.com/smeil123/intro
 * BLOG : https://blog.naver.com/smeil123
-> 1일 1문제 풀기 도전
+* 취미 : 방탈출, 온라인게임, 알고리즘풀기
+
+## 학력
+* 서울시립대학교 컴퓨터 과학 
+
+
 
 사용언어 : C++, Python
 https://blog.naver.com/smeil123
@@ -77,6 +82,6 @@ https://stackedit.io/app#providerId=githubWorkspace&owner=smeil123&repo=Network_
 
 * https://github.com/smeil123/Finance_crawler
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY0NjA2NDczLC0xNDAxNDEzNTc1LDgwNz
+eyJoaXN0b3J5IjpbMTYyNTIwNzgzLC0xNDAxNDEzNTc1LDgwNz
 Y3MjUwNl19
 -->
