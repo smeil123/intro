@@ -29,7 +29,7 @@ C++, C#, Python, Node JS, Oracle, Mysql, MongoDB, Unity 등
 학부때 다양한 프로젝트경험을 하면서 사용해보았고
 최근에는 Java공부를 시작해보려고 합니다.
 
-Todo Study
+### Todo Study
 * 알고리즘 : https://blog.naver.com/smeil123
 * 네트워크 : https://github.com/smeil123/Network_Study
 * Java(Spring) 프로젝트 진행 예정
@@ -95,6 +95,6 @@ Todo Study
 
 * https://github.com/smeil123/Finance_crawler
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDY1OTIwMiwtMTQwMTQxMzU3NSw4MD
+eyJoaXN0b3J5IjpbLTg1MjIyMTU2OSwtMTQwMTQxMzU3NSw4MD
 c2NzI1MDZdfQ==
 -->
