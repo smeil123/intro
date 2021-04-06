@@ -25,15 +25,14 @@ Backend개발자가 되고 싶어, 하나씩 차근차근 공부하고 있습니
 * SQLD(2019)
 
 ## 사용기술
-C++, C#, Python, Node JS, Oracle, Mysql, Unity 등
-학부때 다양한 프로젝트경험을 하면서 사용해보ㅇ
-https://blog.naver.com/smeil123
+C++, C#, Python, Node JS, Oracle, Mysql, MongoDB, Unity 등
+학부때 다양한 프로젝트경험을 하면서 사용해보았고
+최근에는 Java공부를 시작해보려고 합니다.
 
-##  네트워크
-https://stackedit.io/app#providerId=githubWorkspace&owner=smeil123&repo=Network_Study&branch=master
-
-###  Java(Spring) 예정
-
+Todo Study
+* 알고리즘 : https://blog.naver.com/smeil123
+* 네트워크 : https://github.com/smeil123/Network_Study
+* Java(Spring) 프로젝트 진행 예정
 
 # 프로젝트
 
@@ -94,6 +93,6 @@ https://stackedit.io/app#providerId=githubWorkspace&owner=smeil123&repo=Network_
 
 * https://github.com/smeil123/Finance_crawler
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTA1NTQ0NiwtMTQwMTQxMzU3NSw4MD
+eyJoaXN0b3J5IjpbLTM5NDA2MTM2NCwtMTQwMTQxMzU3NSw4MD
 c2NzI1MDZdfQ==
 -->
