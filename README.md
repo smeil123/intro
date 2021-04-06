@@ -1,7 +1,12 @@
-#  진행 중 Study
+# 은지소개서
 
-##  알고리즘 문제 풀기
+## 자기소개
 
+
+* Name : 장 은 지
+* E-Mail : smeil123@naver.com
+* GitHub : https://github.com/smeil123/intro
+* BLOG : https://blog.naver.com/smeil123
 > 1일 1문제 풀기 도전
 
 사용언어 : C++, Python
@@ -72,5 +77,6 @@ https://stackedit.io/app#providerId=githubWorkspace&owner=smeil123&repo=Network_
 
 * https://github.com/smeil123/Finance_crawler
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDE0MTM1NzUsODA3NjcyNTA2XX0=
+eyJoaXN0b3J5IjpbNTY0NjA2NDczLC0xNDAxNDEzNTc1LDgwNz
+Y3MjUwNl19
 -->
