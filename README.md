@@ -34,11 +34,13 @@ Todo Study
 * 네트워크 : https://github.com/smeil123/Network_Study
 * Java(Spring) 프로젝트 진행 예정
 
-# 프로젝트
+## 프로젝트 이력
 
-##  네이버지도로 보는 여행일지 어플
+###  지도를 활용한 여행일지 어플리케이션 개발
 
-개발 환경 - React Native, Node JS, Mongo DB
+* Backend : Node JS, MongoDB
+* FrontEnd : React-Native
+* 사용API : 네이버 로그인, 지도 API
 
 **깃헙주소**
 
@@ -47,9 +49,9 @@ Todo Study
 * API 서버 : https://github.com/smeil123/TourAppServer
 
 
-##  교내 청원 홈페이지
+### 교내 청원 홈페이지
 
-개발 환경 - Node JS, Mongo DB, MySql, Firebase
+* Backend : Node JS, MongoDB, MySQL, Firebase
 
   
 
@@ -58,9 +60,9 @@ Todo Study
 * https://github.com/smeil123/peitition_nodejs
  
 
-##  영화 예매 시스템(데이터베이스 설계)
+###  영화 예매 시스템(데이터베이스 설계)
 
-개발 환경 - C#, Oracle
+* Backend : C#, Oracle
 
 **깃헙주소**
 
@@ -70,9 +72,9 @@ Todo Study
 
   
 
-##  네트워크 시뮬레이션
+###  네트워크 시뮬레이션
 
-개발 환경 - Linux, C++, NS-3
+* 환경 :  Linux, C++, NS-3
  
 
 **깃헙주소**
@@ -93,6 +95,6 @@ Todo Study
 
 * https://github.com/smeil123/Finance_crawler
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NDA2MTM2NCwtMTQwMTQxMzU3NSw4MD
-c2NzI1MDZdfQ==
+eyJoaXN0b3J5IjpbOTAzNzQ5OTk4LC0xNDAxNDEzNTc1LDgwNz
+Y3MjUwNl19
 -->
