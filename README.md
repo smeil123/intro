@@ -17,8 +17,8 @@ Backend개발자가 되고 싶어, 하나씩 차근차근 공부하고 있습니
 	* [복수전공] 빅데이터분석학
 
 ## 회사경력
-* 한국산업은행 인턴  (2019 상반기)
-* 신한은행 (2020 ~ 현재)
+* 한국산업은행 ICT 인턴  (2019 상반기)
+* 신한은행 IT(2020 ~ 현재)
 
 ## 자격증
 * 정보처리기사(2020)
@@ -45,7 +45,6 @@ C++, C#, Python, Node JS, Oracle, Mysql, MongoDB, Unity 등
 **깃헙주소**
 
 * 어플 : https://github.com/luvehayoung/react-native-tour-app
-
 * API 서버 : https://github.com/smeil123/TourAppServer
 
 
@@ -53,7 +52,6 @@ C++, C#, Python, Node JS, Oracle, Mysql, MongoDB, Unity 등
 
 * Backend : Node JS, MongoDB, MySQL, Firebase
 
-  
 
 **깃헙주소**
 
@@ -67,7 +65,6 @@ C++, C#, Python, Node JS, Oracle, Mysql, MongoDB, Unity 등
 **깃헙주소**
 
 * 사용자 프로그램 : https://github.com/shkim52/db_cinema
-
 * 관리자 프로그램 : https://github.com/smeil123/cinema_manager
 
   
@@ -80,9 +77,7 @@ C++, C#, Python, Node JS, Oracle, Mysql, MongoDB, Unity 등
 **깃헙주소**
 
 * https://github.com/smeil123/ns3_lwsn_tdma/tree/master
-
 * https://github.com/smeil123/ns3_lwsn_networkcoding
-
 * https://github.com/smeil123/ns3_lwsn_networkcoding
 
   
@@ -94,7 +89,3 @@ C++, C#, Python, Node JS, Oracle, Mysql, MongoDB, Unity 등
 **깃헙주소**
 
 * https://github.com/smeil123/Finance_crawler
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MjIyMTU2OSwtMTQwMTQxMzU3NSw4MD
-c2NzI1MDZdfQ==
--->
