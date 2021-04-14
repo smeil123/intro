@@ -32,7 +32,7 @@ C++, C#, Python, Node JS, Oracle, Mysql, MongoDB, Unity 등
 ### Todo Study
 * 알고리즘 : https://blog.naver.com/smeil123
 * 네트워크 : https://github.com/smeil123/Network_Study
-* Java(Spring) 프로젝트 진행 예정
+* Java(Spring) : https://github.com/smeil123/Spring_Study/
 
 ## 프로젝트 이력
 
