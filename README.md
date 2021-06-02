@@ -8,7 +8,6 @@ Backend개발자가 되고 싶어, 하나씩 차근차근 공부하고 있습니
 * Name : 장 은 지
 * E-Mail : smeil123@naver.com
 * GitHub : https://github.com/smeil123/intro
-* BLOG : https://blog.naver.com/smeil123
 * 취미 : 방탈출, 온라인게임, 알고리즘풀기
 
 ## 학력
@@ -29,10 +28,6 @@ C++, C#, Python, Node JS, Oracle, Mysql, MongoDB, Unity 등
 학부때 다양한 프로젝트경험을 하면서 사용해보았고
 최근에는 Java공부를 시작해보려고 합니다.
 
-### Todo Study
-* 알고리즘 : https://blog.naver.com/smeil123
-* 네트워크 : https://github.com/smeil123/Network_Study
-* Java(Spring) : https://github.com/smeil123/Spring_Study/
 
 ## 프로젝트 이력
 
