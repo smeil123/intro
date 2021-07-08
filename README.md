@@ -343,3 +343,6 @@ The optional section blocks have styling for h3 (the block title), h4, p, and ul
 ## License
 
 Completely free (MIT)! See [LICENSE.md](LICENSE.md) for more.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTg4NTc2NDI3M119
+-->
