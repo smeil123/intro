@@ -11,8 +11,8 @@
 	* https://blog.naver.com/smeil123
 2. CS 정리
 	* https://github.com/smeil123/CS_Study
-3. SpringBoot 스터디 중
-	* https://github.com/smeil123/First_SpringProject
+3. React JS 스터디 중
+	* https://github.com/roongang/WMFront_react
 
 
 ## 수행한 프로젝트
