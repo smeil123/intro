@@ -24,12 +24,16 @@
 	* https://blog.naver.com/smeil123
 2. CS 정리
 	* https://github.com/smeil123/CS_Study
-3. React JS 스터디 중
+3. SQL 튜닝(그 외 고민해 본 내용 정리)
+   	* https://roongstar.tistory.com/
+<!--3. React JS 스터디 중
 	* https://github.com/roongang/WMFront_react
 4. Docker 스터디
 	* https://github.com/smeil123/Docker_Study
+-->
 
-## 수행한 프로젝트
+
+### 대학생 시절 프로젝트
 
 **네이버지도로 보는 여행일지 어플**
 
